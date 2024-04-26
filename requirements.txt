@@ -1,6 +1,5 @@
 cmake
 boost
-dlib
 six==1.9.0
 fvcore==0.1.5.post20220414
 matplotlib==3.5.1
