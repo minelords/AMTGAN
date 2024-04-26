@@ -10,7 +10,7 @@
 >2.torch可能存在不兼容，请下载符合gpu的版本，我下的是高版本：
 [torch2.2.0](https://download.pytorch.org/whl/cu121/torch-2.2.0%2Bcu121-cp38-cp38-win_amd64.whl)和[torchvision0.17](https://download.pytorch.org/whl/cu121/torchvision-0.17.0%2Bcu121-cp38-cp38-win_amd64.whl)
 
-shell```
+```
 在文件目录执行命令
 pip install torch-2.2.0+cu121-cp38-cp38-win_amd64.whl
 pip install torchvision-0.17.0+cu121-cp38-cp38-win_amd64.whl
